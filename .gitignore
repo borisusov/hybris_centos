@@ -1,0 +1,4 @@
+*.rpm
+*.zip
+*.ZIP
+.vagrant/
